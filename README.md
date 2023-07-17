@@ -23,5 +23,6 @@ Resources:
 - Font is from https://fonts.google.com/specimen/Press+Start+2P
 
 Preview: 
-- https://github.com/urska19/1st_trip_around_the_sun/assets/6882194/b1febf88-e012-4c7a-b9d8-759c409c8231
+
+https://github.com/urska19/1st_trip_around_the_sun/assets/6882194/b1febf88-e012-4c7a-b9d8-759c409c8231
 
