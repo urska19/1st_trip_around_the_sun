@@ -1,9 +1,12 @@
 # First Trip Around The Sun
-It was created to celebrate first year anniversarry of Rencord. The main game framework is from https://github.com/urska19/catch_me_if_you_can/tree/main.
+It was created to celebrate first year anniversarry of Rencord, which is a Discord of a musician [Ren](https://www.youtube.com/channel/UCqq3VcwPGseErHUa0-xLInQ). The main game framework is from https://github.com/urska19/catch_me_if_you_can/tree/main.
+
 It is Pacman inspired mobile game for Android and iOS. Rencord is trying to collect party items (hats, balloons and glasses) in first level and cake ingredients (sugar, flour, milk, eggs) in second level in order to have a party. Only the vicious pig can prevent him to have his party.
 
 Resources:
 - Assets are from:
+  - https://renmakesmerch.com/products/screech
+  - https://renmakesmerch.com/products/sick-boi-1
   - https://www.freepik.com/icon/balloons_2860020#position=34&page=1&term=2d+star+heart+ballons&fromView=search
   - https://www.freepik.com/icon/balloons_9169710#position=4&page=2&term=2d++balloons&fromView=search
   - https://www.freepik.com/icon/party-glasses_8643088#position=2&page=1&term=2d+star+shaped+glasses&fromView=search
