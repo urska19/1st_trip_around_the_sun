@@ -24,5 +24,4 @@ Resources:
 
 Preview: 
 
-https://github.com/urska19/1st_trip_around_the_sun/assets/6882194/b1febf88-e012-4c7a-b9d8-759c409c8231
-
+https://github.com/urska19/1st_trip_around_the_sun/assets/6882194/d6874e95-fc07-4e85-b763-578745b73092
